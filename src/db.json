@@ -1,0 +1,100 @@
+[
+  {
+    "name" : "Giggiw",
+    "purchase" : {
+      "threeStraight" : [
+        {
+          "number" : "123",
+          "amount" : 10
+        },
+        {
+          "number" : "456",
+          "amount" : 10
+        },
+        {
+          "number" : "789",
+          "amount" : 20
+        }
+      ],
+      "threeRunning" : [
+        {
+          "number" : "123",
+          "amount" : 10
+        },
+        {
+          "number" : "456",
+          "amount" : 10
+        }
+      ],
+      "twoUpper" : [
+        {
+          "number" : "78",
+          "amount" : 10
+        },
+        {
+          "number" : "87",
+          "amount" : 10
+        }
+      ],
+      "twoLower" :[
+        {
+          "number" : "82",
+          "amount" : 10
+        }
+      ]
+    }
+  },
+  {
+    "name" : "Ton",
+    "purchase" : {
+      "threeStraight" : [
+        {
+          "number" : "321",
+          "amount" : 20
+        },
+        {
+          "number" : "591",
+          "amount" : 50
+        },
+        {
+          "number" : "176",
+          "amount" : 30
+        }
+      ],
+      "threeRunning" : [
+        {
+          "number" : "538",
+          "amount" : 20
+        },
+        {
+          "number" : "164",
+          "amount" : 20
+        }
+      ],
+      "twoUpper" : [
+        {
+          "number" : "76",
+          "amount" : 50
+        },
+        {
+          "number" : "47",
+          "amount" : 50
+        },
+        {
+          "number" : "92",
+          "amount" : 20
+        }
+      ],
+      "twoLower" :[
+        {
+          "number" : "27",
+          "amount" : 100
+        },
+        {
+          "number" : "99",
+          "amount" : 100
+        }
+      ]
+    }
+  }
+]
